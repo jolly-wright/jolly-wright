@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## ME:
-my main robotics and programming documentations are available on "RuneRadiance",  
-my personal learning space to search for light using wisdom of the runes..  
+## ABOUT ME
+my main robotics and programming documentations are available on "RuneRadiance", my personal learning space to search for light using wisdom of the runes..  
 RuneRadiance YT for project contents: https://www.youtube.com/@RuneRadiance-2025  
 RuneRadiance GitHub for official project's codes: https://www.github.com/runeradiance  
 Ask me abt anything u like 😄  

@@ -21,8 +21,8 @@ RuneRadiance GitHub for official project's codes: https://www.github.com/runerad
 Ask me abt anything u like 😄  
 Email: muhi.mahasin25@gmail.com
 ## 🌐SOCIALS
-[![IG](https://img.icons8.com/ios-glyphs/30/000000/instagram-new.png)](https://instagram.com/it.is.muhi)
-
+[![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://instagram.com/it.is.muhi)
+[![Facebook](https://img.icons8.com/fluency/48/000000/facebook-new.png)](https://facebook.com/mdmahasinalmuhi)
 ## Robotics Projects
 1) Custom ESP32 Controller for Multiple Robots
 2) Robo Soccer

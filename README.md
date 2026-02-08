@@ -15,11 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## ABOUT ME
-my main robotics and programming documentations are available on "RuneRadiance", my personal learning space to search for light using wisdom of the runes..  
+My main robotics and programming documentations are available on "RuneRadiance", my personal learning space to search for light using wisdom of the runes..  
 RuneRadiance YT for project contents: https://www.youtube.com/@RuneRadiance-2025  
-RuneRadiance GitHub for official project's codes: https://www.github.com/runeradiance  
+RuneRadiance GitHub for official project's codes: https://www.github.com/runeradiance    
 Ask me abt anything u like 😄  
 Email: muhi.mahasin25@gmail.com
+## 🌐SOCIALS
+[![IG](https://img.icons8.com/ios-glyphs/30/000000/instagram-new.png)](https://instagram.com/it.is.muhi)
 
 ## Robotics Projects
 1) Custom ESP32 Controller for Multiple Robots

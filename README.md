@@ -1,4 +1,4 @@
-## <p align="center">A vigorous science enthusiast full of passion 👋✨</p>
+## <p align="center">A vigorous science enthusiast<br> full of passion 👋✨</p>
 
 <!--
 **jolly-wright/jolly-wright** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

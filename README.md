@@ -15,15 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## ABOUT ME
-My main robotics and programming documentations are available on "RuneRadiance", my personal learning space to search for light using wisdom of the runes..  
-RuneRadiance YT for project contents: https://www.youtube.com/@RuneRadiance-2025  
-RuneRadiance GitHub for official project's codes: https://www.github.com/runeradiance    
+My main robotics and programming documentations are available on "RuneRadiance" yt and instagram, my personal learning space to search for light using wisdom of the runes..  
+RuneRadiance YT for project contents: https://www.youtube.com/@RuneRadiance-2025<br>
+RuneRadiance Insta for continuous updates: https://www.instagram.com/runeradiance
+<br>    
 Ask me abt anything u like 😄  
 Email: muhi.mahasin25@gmail.com
 ## 🌐SOCIALS
 [![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://instagram.com/it.is.muhi)
 [![Facebook](https://img.icons8.com/fluency/48/000000/facebook-new.png)](https://facebook.com/mdmahasinalmuhi)
-[![Discord](https://img.icons8.com/?size=60&id=xmpxGzSLFcZE&format=png&color=000000)](https://www.discord.com/users/811463263518064641)
+[![Discord](https://img.icons8.com/?size=50&id=xmpxGzSLFcZE&format=png&color=000000)](https://www.discord.com/users/811463263518064641)
 ## ⚙️Robotics Projects
 1) Custom ESP32 Controller for Multiple Robots
 2) Robo Soccer

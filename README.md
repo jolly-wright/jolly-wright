@@ -23,6 +23,7 @@ Email: muhi.mahasin25@gmail.com
 ## 🌐SOCIALS
 [![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://instagram.com/it.is.muhi)
 [![Facebook](https://img.icons8.com/fluency/48/000000/facebook-new.png)](https://facebook.com/mdmahasinalmuhi)
+[![Discord](https://img.icons8.com/?size=100&id=xmpxGzSLFcZE&format=png&color=000000)](https://www.discord.com/users/811463263518064641)
 ## ⚙️Robotics Projects
 1) Custom ESP32 Controller for Multiple Robots
 2) Robo Soccer

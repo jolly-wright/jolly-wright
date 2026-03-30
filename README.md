@@ -22,7 +22,7 @@ RuneRadiance Insta for continuous updates: https://www.instagram.com/runeradianc
 <p>Co-leader of <a href='https://github.com/Team-Nokkhotropoth'>Team Nokkhotropoth</a><br>A Determined group focused on researching and developing STEM projects and education🌱🔭</p>
 <br>
 Ask me abt anything u like 😄  
-Email: muhi.mahasin25@gmail.com
+Email: muhi.mahasin25@gmail.com <br>
 ## 🌐SOCIALS
 [![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://instagram.com/it.is.muhi)
 [![Facebook](https://img.icons8.com/fluency/48/000000/facebook-new.png)](https://facebook.com/mdmahasinalmuhi)

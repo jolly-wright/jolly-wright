@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 My main robotics and programming documentations are available on "RuneRadiance" yt and instagram, my personal learning space to search for light using wisdom of the runes..  
 RuneRadiance YT for project contents: https://www.youtube.com/@RuneRadiance-2025<br>
 RuneRadiance Insta for continuous updates: https://www.instagram.com/runeradiance
-<br>
+
 <p>Co-leader of <a href='https://github.com/Team-Nokkhotropoth'>Team Nokkhotropoth</a><br>A Determined group focused on researching and developing STEM projects and education🌱🔭</p>
-<br>
+
 Ask me abt anything u like 😄  
 Email: muhi.mahasin25@gmail.com <br>
 ## 🌐SOCIALS

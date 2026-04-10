@@ -30,7 +30,7 @@ Email: muhi.mahasin25@gmail.com <br>
 ## ⚙️Robotics Projects
 1) <a href="https://github.com/jolly-wright/esp32_joystick_controller">Custom ESP32 Controller for Multiple Robots</a>
 2) <a href='https://github.com/jolly-wright/esp32_robo_soccer'>Robo Soccer</a>
-3) Mini Robo Soccer using TT motors
+3) Drone with Onboard CV for autonomous piloting
 4) Line Following Robot
 
 ## 💻Programming Projects

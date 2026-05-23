@@ -27,12 +27,9 @@ Email: muhi.mahasin25@gmail.com <br>
 [![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://instagram.com/it.is.muhi)
 [![Facebook](https://img.icons8.com/fluency/48/000000/facebook-new.png)](https://facebook.com/mdmahasinalmuhi)
 [![Discord](https://img.icons8.com/?size=50&id=xmpxGzSLFcZE&format=png&color=000000)](https://www.discord.com/users/811463263518064641)
-## ⚙️Robotics Projects
-1) <a href="https://github.com/jolly-wright/esp32_joystick_controller">Custom ESP32 Controller for Multiple Robots</a>
-2) <a href='https://github.com/jolly-wright/esp32_robo_soccer'>Robo Soccer</a>
-3) Drone with Onboard CV for autonomous piloting
-4) Line Following Robot
-
-## 💻Programming Projects
-1) NDSC Annual Fest 2025 & 35th GKC Website [Developer]
-<br>Link: https://asf25.ndscbd.net
+## ⚙️Projects💻
+1) <a href='https://nokkhotropoth.pages.dev'>Official Website of Team Nokkhotropoth [Developer]</a>
+2) Drone with Onboard CV for autonomous piloting
+3) <a href="https://github.com/jolly-wright/esp32_joystick_controller">Custom ESP32 Controller for Multiple Robots</a>
+4) <a href='https://github.com/jolly-wright/esp32_robo_soccer'>Robo Soccer</a>
+6) Line Following Robot

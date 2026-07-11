@@ -1,7 +1,6 @@
 ## <p align="center">A vigorous science enthusiast<br> full of passion </p>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views" />
-</p>
+
+<img src="https://komarev.com/ghpvc/?username=jolly-wright&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views" />
 <!--
 **jolly-wright/jolly-wright** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

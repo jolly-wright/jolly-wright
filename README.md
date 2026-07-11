@@ -1,11 +1,11 @@
+<h1 align="center">
+'Obsession always finds a path'<br>
+</h1>
 <h2 align="center">
-A vigorous science enthusiast<br>
-Orewa Muhi!
+Orewa Muhi
 </h2>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jolly-wright&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views">
-</p>
+![GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 <!--
 **jolly-wright/jolly-wright** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

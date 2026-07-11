@@ -32,4 +32,5 @@ Email: muhi.mahasin25@gmail.com <br>
 2) Drone with Onboard CV for autonomous piloting
 3) <a href="https://github.com/jolly-wright/esp32_joystick_controller">Custom ESP32 Controller for Multiple Robots</a>
 4) <a href='https://github.com/jolly-wright/esp32_robo_soccer'>Robo Soccer</a>
+5) <a href='https://github.com/jolly-wright/esp32_obstacle_avoidance_bot'>Obstacle Avoidance Bot</a>
 6) Line Following Robot

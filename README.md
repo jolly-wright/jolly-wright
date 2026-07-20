@@ -12,7 +12,7 @@ RuneRadiance Insta for continuous updates: https://www.instagram.com/runeradianc
 Ask me abt anything u like 😄  
 Email: muhi.mahasin25@gmail.com <br>
 <h1>🌐SOCIALS</h1>
-<a href ="https://instagram.com/it.is.muhi"><img src = "https://img.icons8.com/fluency/48/000000/instagram-new.png"></a>
+<a href ="https://instagram.com/jolly.mahas1n"><img src = "https://img.icons8.com/fluency/48/000000/instagram-new.png"></a>
 <a href = "https://facebook.com/mdmahasinalmuhi"><img src = "https://img.icons8.com/fluency/48/000000/facebook-new.png"></a>
 <a href = "https://www.discord.com/users/811463263518064641"><img src = "https://img.icons8.com/?size=50&id=xmpxGzSLFcZE&format=png&color=000000"></a>
 <a href = "https://linkedin.com/in/md-mahasin-al-muhi"><img src = "https://img.icons8.com/fluency/48/000000/linkedin.png"></a>
